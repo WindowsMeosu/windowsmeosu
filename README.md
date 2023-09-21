@@ -1,7 +1,5 @@
 # 💫About Me :
-Main Language: SML
-Frontend Languages: HTML, JavaScript, CSS, XML(XHTML), XSL
-Programming Languages: Java, SML, OCaml, C++, C, C#, Elixir
+Hi, I just exist :3 
 
 ## 🌐Socials
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/WindowsMe_) 
